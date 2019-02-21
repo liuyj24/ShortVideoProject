@@ -1,0 +1,10 @@
+com\shenghao\mapper\VideosMapperCustom.class
+com\shenghao\mapper\CommentsMapperCustom.class
+com\shenghao\mapper\UsersLikeVideosMapper.class
+com\shenghao\mapper\UsersMapper.class
+com\shenghao\mapper\UsersReportMapper.class
+com\shenghao\mapper\BgmMapper.class
+com\shenghao\mapper\VideosMapper.class
+com\shenghao\mapper\CommentsMapper.class
+com\shenghao\mapper\SearchRecordsMapper.class
+com\shenghao\mapper\UsersFansMapper.class

@@ -1,0 +1,12 @@
+com\shenghao\pojo\SearchRecords.class
+com\shenghao\pojo\Users.class
+com\shenghao\pojo\Videos.class
+com\shenghao\pojo\UsersLikeVideos.class
+com\shenghao\pojo\Bgm.class
+com\shenghao\pojo\UsersReport.class
+com\shenghao\pojo\UsersFans.class
+com\shenghao\pojo\vo\UsersVO.class
+com\shenghao\pojo\Comments.class
+com\shenghao\pojo\vo\CommentsVO.class
+com\shenghao\pojo\vo\VideosVO.class
+com\shenghao\pojo\vo\PublisherVideo.class

@@ -1,0 +1,6 @@
+com\shenghao\service\UserService.class
+com\shenghao\service\VideoService.class
+com\shenghao\service\impl\BgmServiceImpl.class
+com\shenghao\service\impl\VideoServiceImpl.class
+com\shenghao\service\BgmService.class
+com\shenghao\service\impl\UserServiceImpl.class

@@ -1,0 +1,5 @@
+com\shenghao\controller\videoController.class
+com\shenghao\interceptor\LoginInterceptor.class
+com\shenghao\controller\UsersController.class
+com\shenghao\bean\AdminUser.class
+com\shenghao\controller\HelloController.class
